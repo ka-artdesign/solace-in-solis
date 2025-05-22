@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/characters/colt-morgan/","tags":["characters"],"dgHomeLink":true}
+{"dg-publish":true,"permalink":"/people/characters/colt-morgan/","tags":["characters"],"dgHomeLink":true,"dgShowLocalGraph":true}
 ---
 
 # Colt Morgan
