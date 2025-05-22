@@ -5,7 +5,8 @@
 # Colt Morgan
 
 ## Summary: 
-#### Once an outlaw, now the superintendent and leader of the Peacekeepers. A kind man worn down by age and his experiences, but still a force to be reckoned with nonetheless. If it wasn't for his boundless love for Raine, he wouldn't be here, after all.
+
+ Once an outlaw, now the superintendent and leader of the Peacekeepers. A kind man worn down by age and his experiences, but still a force to be reckoned with nonetheless. If it wasn't for his boundless love for Raine, he wouldn't be here, after all.
 
 ### General Info:
 
