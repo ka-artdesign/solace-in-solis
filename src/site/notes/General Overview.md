@@ -9,12 +9,11 @@
 #### [[People/Characters/Character Masterlist\|Character Masterlist]]
 #### [[People/Factions & Civilizations/Factions & Civilizations List\|Factions & Civilizations List]]
 
-#### [[Locations/Setting Overview - Solis\|Setting Overview - Solis]]
+#### [[Locations/Main Setting - Solis\|Main Setting - Solis]]
 
 #### [[Ideas & Inspirations\|Ideas & Inspirations]]
 
-
-
+*Please note, this is a Work in Progress! some links may be unavailable or broken.*
 
 
 
