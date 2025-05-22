@@ -4,18 +4,19 @@
 
 # Indigo *"Raine"* Ortega
 
-#### Summary: 
+## Summary: 
+
 A smuggler-thief who is burdened with immortality for the last 200 years, after interacting with an aestellan relic in the depths of Venus. They're known as a small legend, often a set of rumors most think false, but those in the underground circles know who the aestellan smuggler is.
 
-**Name:** Indigo Ortega; took the name Raine in place of their deceased best friend and love interest at the time.
+### General Info
 
-**Age:** 242 approx. / Appears to be late thirties, early forties
-
-**Gender:** Nonbinary / Presents quite androgynous, but has a certain rugged but feminine quality along with their inherent masculinity
-Pronouns: They/Them
-
+**Name:** Indigo Ortega
+**Age:** 242 approx. (Appears to be late thirties, early forties)
+**Gender:** Nonbinary/Agender
+**Pronouns:** They/Them
 **Birthplace:** Earth, culturally similar to a Puerto Rican. 
-
 **Voice Claim:** TBA
 
+### Relationships / Alliances:
 
+[[People/Characters/Colt Morgan\|Colt Morgan]] - An outlaw Raine has a lot of mixed feelings about— *guilt, particularly.* They betrayed him to avoid giving away the fact that they're irreversibly immortal, knowing how in-love he was. Imagine their surprise that decades later, he became the head of the Peacekeepers.
