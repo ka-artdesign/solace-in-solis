@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/characters/character-masterlist/","tags":["characters","masterlist"]}
+{"dg-publish":true,"permalink":"/people/characters/character-masterlist/","tags":["characters","masterlist"],"dgHomeLink":true}
 ---
 
 Character Masterlist
