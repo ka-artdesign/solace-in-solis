@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/people/characters/raine/","tags":["characters"],"dgHomeLink":true}
 ---
 
-# Raine, the star-blessed outlaw
+# Indigo *"Raine"* Ortega
 
 #### Summary: 
 A smuggler-thief who is burdened with immortality for the last 200 years, after interacting with an aestellan relic in the depths of Venus. They're known as a small legend, often a set of rumors most think false, but those in the underground circles know who the aestellan smuggler is.
