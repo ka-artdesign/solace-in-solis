@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/people/characters/character-masterlist/","tags":["characters","masterlist"],"dgHomeLink":true}
 ---
 
-Character Masterlist
+# Character Masterlist
 
 [[People/Characters/Raine\|Raine]]
 [[People/Characters/Colt\|Colt]]
