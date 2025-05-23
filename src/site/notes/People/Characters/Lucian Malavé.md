@@ -46,7 +46,7 @@
 
 **Affiliation:** [[People/Factions & Civilizations/United Nations Trading Coalition\|United Nations Trading Coalition]]
 **Personality Type:** ENFP-A
-**Temper:** A bit impulsive and patient, especially when pressed emotionally.
+**Temper:** A bit impulsive and impatient, especially when pressed emotionally.
 <br>
 
 ### Personality & Abilities:
