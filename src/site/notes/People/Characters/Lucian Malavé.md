@@ -60,7 +60,7 @@ Often with a friendly and welcoming demeanor, Lucian is known to make easy frien
 
 **Dislikes:**
 - Being on bad terms with those they care about
-- 
+- TBA
 
 **Fears:**
 - Abandonment, does not like being left behind
@@ -91,7 +91,7 @@ Often with a friendly and welcoming demeanor, Lucian is known to make easy frien
 
 **Theme Song:**
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6k4f9cRrCBLxoFQGZHJ8QX?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
+<br>
 
 ### Relationships / Alliances:
 
@@ -101,10 +101,11 @@ Often with a friendly and welcoming demeanor, Lucian is known to make easy frien
 <br>
 ### Biography:
 
+TBA
+
 ### Trivia: 
 
-
-
+TBA
 
 
 
