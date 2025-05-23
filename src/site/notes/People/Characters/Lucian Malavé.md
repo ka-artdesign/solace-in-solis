@@ -7,7 +7,7 @@
 <br>
 
 ## Summary: 
-#### insert summary
+#### A friendly face stocked with a mean left hook. Lucian is known as one of the authorities keeping order over one of the many oil rigs turned into trading outposts; now home to a large city of people and merchants. Need help? Look for the short human trading hub supervisor. 
 <br>
 
 ### General Information:
@@ -23,7 +23,7 @@
 **Voice Claim:** Vico Ortiz as Jim in Our Flag Means Death
 <br>
 
-**Height:** 5'6" / 
+**Height:** 5'3" / 160cm
 **Hair Color:** Dark Brown, long, often kept down or braided/tied
 **Eye Color:** Dark Brown
 **Skin Tone:** On the paler side with some sun tan.
