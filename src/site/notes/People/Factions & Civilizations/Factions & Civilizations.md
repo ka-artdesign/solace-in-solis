@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/factions-and-civilizations/factions-and-civilizations/","tags":["masterlist"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true}
+{"dg-publish":true,"permalink":"/people/factions-and-civilizations/factions-and-civilizations/","pinned":true,"tags":["masterlist"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true}
 ---
 
 # Factions & Civilizations
