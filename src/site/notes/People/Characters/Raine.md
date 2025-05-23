@@ -19,9 +19,9 @@ A smuggler-thief who is burdened with immortality for the last 200 years, after 
 **Birthplace:** Earth, culturally similar to a Puerto Rican
 **Voice Claim:** TBA
 
-**Notable Features/Details:**
+**Notable Features/Details:** TBA
 
-**Visual Reference/Inspirations:**
+**Visual Reference/Inspirations:** TBA
 
 <br>
 ### Personality & Abilities:
