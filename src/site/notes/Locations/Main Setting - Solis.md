@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/main-setting-solis/","dgHomeLink":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/locations/main-setting-solis/","dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true}
 ---
 
 # Solis - Main Setting

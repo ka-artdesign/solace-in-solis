@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/general-overview/","tags":["gardenEntry"],"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/general-overview/","tags":["gardenEntry"],"dgShowLocalGraph":true,"dgShowFileTree":true}
 ---
 
 # **Hi there!**

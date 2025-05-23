@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/characters/raine/","tags":["characters"],"dgHomeLink":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/people/characters/raine/","tags":["characters"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true}
 ---
 
 # Indigo *"Raine"* Ortega
