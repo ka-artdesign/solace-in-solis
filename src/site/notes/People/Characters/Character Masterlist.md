@@ -4,7 +4,7 @@
 
 # Character Masterlist
 
-#### This list has the OCs I've added in so far, and most likely will add more. Here, you can click/tap and find out more about how they fit in this universe! So far, I've grouped them based on who they currently and canonically interact with, but these groups can interact with one another!
+## This list has the OCs I've added in so far, and most likely will add more. Here, you can click/tap and find out more about how they fit in this universe! So far, I've grouped them based on who they currently and canonically interact with, but these groups can interact with one another!
 
 
 [[People/Characters/Raine\|Raine]]
