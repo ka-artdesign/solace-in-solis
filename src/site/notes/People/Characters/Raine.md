@@ -12,7 +12,8 @@ A smuggler-thief who is burdened with immortality for the last 200 years, after 
 ### General Information:
 
 **Name:** Indigo Ortega
-**Age:** 242 approx. (Appears to be late thirties, early forties)
+**Nickname:**
+**Age:** 256 approx. (Appears to be mid to late forties)
 **Gender:** Nonbinary/Agender
 **Pronouns:** They/Them
 **Sexuality:** Pansexual (Often prefers women/feminine folk)
@@ -20,7 +21,18 @@ A smuggler-thief who is burdened with immortality for the last 200 years, after 
 **Birthplace:** Earth, culturally similar to a Puerto Rican
 **Voice Claim:** TBA
 
+Height: 5'9"
+Hair Color: Black with grey streaks
+Eye Color: Dark grey, with a purple tint when the light catches on.
+Skin Tone: Slightly dark tan
 **Notable Features/Details:** TBA
+<br>
+**Status:** Immortal
+**Family:** None
+**Affiliation:** Independent
+**Personality Type:**
+**Temper:**
+
 
 **Visual Reference/Inspirations:** TBA
 <br>
