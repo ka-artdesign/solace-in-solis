@@ -51,21 +51,27 @@
 
 ### Personality & Abilities:
 
-Often with a friendly and welcoming demeanor, Lucian is known to make easy friends with most. Although they are a pacifist and prefer to talk things out, they will not hesitate to protect themselves or anyone they wish to help.
+Often with a friendly and welcoming demeanor, Lucian is known to make easy friends with most. Although they are a pacifist and prefer to talk things out, they will not hesitate to protect themselves or anyone they wish to help. They often choose to be honest, but they also omit things if they feel it important to withhold. Otherwise, you *will* hear everything they have to say if you're their friend. 
+
+They're reliable, kind, and someone who despite their flaws, does right by their own. Even if it takes them some time, of course.
 
 **Likes:**
-- Interacting with people
+- Interacting with people, socializing
 - Collecting, particularly souvenirs of different cities or cultures
 - Gardening and caring for animals
+- Dancing
 
 **Dislikes:**
 - Being on bad terms with those they care about
-- TBA
+- Scummy Merchants
+- To be called a liar or be judged on other's actions
+- Feeling excessively dirty while working
 
 **Fears:**
 - Abandonment, does not like being left behind
 - Solitude
 - Small spaces *(Don't ask Kadence about the vent incident.)*
+- Failure and being unable to recover
 
 **Strengths:**
 - Emotionally intelligent / Intuitive & Friendly
@@ -82,12 +88,14 @@ Often with a friendly and welcoming demeanor, Lucian is known to make easy frien
 **Skills:**
 - Mixed Martial Arts
 - Small Arms Handling
+- Basic Accounting & Complex Math
+- Planetary Vehicle Handling
 
 **Hobbies:**
 - Rehabilitating small wildlife
 - Researching cultures and learning of history
-- Learning languages (Doesn't practice often.)
-- Physical training
+- Pottery, working with clay
+- Training in Martial Arts 
 
 **Theme Song:**
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6k4f9cRrCBLxoFQGZHJ8QX?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -102,11 +110,23 @@ Often with a friendly and welcoming demeanor, Lucian is known to make easy frien
 <br>
 ### Biography:
 
-TBA
+Born on the shuttle down to Earth from one of the many satellite-based outposts just outside of the planet, Lucian was raised in a somewhat complicated family dynamic with the loss of a parent and the absence of another. They were lucky to be raised by their brothers, who had taken to being responsible for them ever since they were young. 
 
+Raised on the [[Thunder Ox\|Thunder Ox]] UNTC outpost, Lucian was scrawny and often did not want to be involved in any confrontations, especially when most of the races that lived in this territory were far bigger and stronger, even as children. Even then, thanks to a few trials by fire and loving encouragement from their siblings, Lucian learned to find their voice and discovered they had a mean left hook.
+
+Their adolescence was pretty uneventful save for trading disputes and some serious scarcity coming up, but Lucian made themselves shine by finding good solutions to the problems at hand, after they had meddled in Trading Authorities' equipment and offices. *Act now, ask for forgiveness later, right?* If it wasn't for Kadence's help and James choosing to cover for them, they wouldn't have been able to pull it off. Because of their actions, the UNTC Officials had seen potential in them. 
+
+Helping those on the rig, earning their income through their kind efforts, they ended up being offered a job with the UNTC, to help shape what is currently sustaining the local economy. Kadence had snagged a sort of nomadic lifestyle as either a mechanic or a deliveryman, so over time he ended up only visiting occasionally. James lives on the rig as an emergency medic, stitching up workers and helping those with the more immediate injuries, stabilizing them. Lucian believes he hasn't left for better job offers because they chose to stay here.
+
+Despite the Thunder Ox's inherent flaws, and how flakey the economy is, Lucian wouldn't trade it unless they were given a really good offer to travel and explore Solis. They adore learning, so something like that would appeal to them, but until then, they're happy with the active and busy life of a trading supervisor.
+<br>
 ### Trivia: 
 
-TBA
+- They find a lot of solace in making silly pottery items, and likes gifting them to James. Despite their assumptions, he has no intentions to throw any of their work away. His apartment is full of them.
+- Lucian has more than a few of Kade's hand-me-downs. Don't blame them, he has wicked style.
+- All three siblings have ankle bracelets with small flower pendants. They honor one another, even on their worst days.
+- Lucian snorts when they laugh too hard.
+- They have considered getting tattoos, but aren't sure *what to get.* James tells them to just get whatever they is available as a start. He's tired of them going back and forth on this.
 
 
 
