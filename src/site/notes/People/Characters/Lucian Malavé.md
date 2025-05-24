@@ -2,6 +2,16 @@
 {"dg-publish":true,"permalink":"/people/characters/lucian-malave/","tags":["characters"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true}
 ---
 
+<style>
+img.sticky {
+  position: sticky;
+  right: 0;
+  bottom: 0;
+  width: 200px;
+}
+</style>
+
+<img class="sticky" src="https://file.garden/ZdaeU9vlqFbDy-Y_/Toyhouse%20stuff/Lucian%20TH%20Stuff/Lucian%20icon%20thing%20TH.jpg" alt="Avatar">
 # Lucian Malavé
 
 <br>
