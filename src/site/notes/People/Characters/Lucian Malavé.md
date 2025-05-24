@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/people/characters/lucian-malave/","tags":["characters"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true}
 ---
 
+!important
 <style>
 img.sticky {
   position: sticky;
