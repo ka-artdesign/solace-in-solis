@@ -8,7 +8,7 @@
 <br>
 
 ## Summary: 
-#### A friendly face stocked with a mean left hook. Lucian is known as one of the authorities keeping order over one of the many oil rigs turned into trading outposts; now home to a large city of people and merchants. Need help? Look for the short human trading hub supervisor. 
+#### A friendly face stocked with a mean left hook. Lucian is known as one of the authorities keeping order over one of the many oil rigs turned into trading outposts; now home to a large city of people and merchants. Need help? Look for the short human trading hub supervisor.
 <br>
 
 ### General Information:
