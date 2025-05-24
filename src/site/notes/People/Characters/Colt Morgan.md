@@ -18,6 +18,6 @@
 **Voice Claim:** Jeffrey Dean Morgan
 
 ### Relationships / Alliances:
-[[People/Characters/Raine\|Raine]] -  Once his first and only love, the one who got away. It was them who got him arrested and set on the path of being the head of the Peacekeepers, whether they knew it or not. Even with their "betrayal", he still sees them with admiration and a sense of affection that never waned.
+[[People/Characters/Raine Ortega\|Raine Ortega]] -  Once his first and only love, the one who got away. It was them who got him arrested and set on the path of being the head of the Peacekeepers, whether they knew it or not. Even with their "betrayal", he still sees them with admiration and a sense of affection that never waned.
 
 
