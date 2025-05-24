@@ -18,7 +18,7 @@ A smuggler-thief who is burdened with immortality for the last 200 years, after 
 **Pronouns:** They/Them
 **Sexuality:** Pansexual (Often prefers women/feminine folk)
 **Romantic Status:** Single, prefers to not settle down.
-**Birthplace:** Earth, culturally similar to a Puerto Rican
+**Birthplace:** Earth, culturally similar to an American from the East Coast 
 **Voice Claim:** TBA
 
 **Height:** 5'9"
