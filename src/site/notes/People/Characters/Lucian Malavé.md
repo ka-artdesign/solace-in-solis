@@ -33,7 +33,6 @@
 - Has long hair, but when they put their hair up, there is a notable undercut. 
 - Has visible facial scars, on their right cheek, near their left eye and one from their bottom lip to their chin.
 - Also across their body, particularly on their fists and up their arms, which they tend to cover up by habit.
-
 <br>
 
 **Visual Reference/Inspirations:** TBA
