@@ -3,7 +3,7 @@
 ---
 
 <p display=block
-	align="center">
+	align="!important center">
     <img src="https://file.garden/ZdaeU9vlqFbDy-Y_/Toyhouse%20stuff/Lucian%20TH%20Stuff/Lucian%20icon%20thing%20TH.jpg" alt="Lucian Malavé icon" width="500">
 </p>
 <br>
@@ -37,6 +37,7 @@
 - They're built like a fighter, stocky and resilient. 
 - Presents to be androgynous, or a mix of being both feminine and masculine. 
 - Has long hair, but when they put their hair up, there is a notable undercut. 
+- Has some piercings, particularly earrings, nose ring and a lip ring
 - Has visible facial scars, on their right cheek, near their left eye and one from their bottom lip to their chin.
 - Also across their body, particularly on their fists and up their arms, which they tend to cover up by habit.
 <br>
