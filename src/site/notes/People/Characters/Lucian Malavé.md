@@ -39,9 +39,21 @@
 
 **Visual Reference/Inspirations:** TBA
 
-<div style="overflow: auto; width: 100%; height: 500px;">
-  <img src="Attachments/Lucian/Lucian placeholder test.svg" style="transform: scale(2); transform-origin: top left;" />
+<div id="zoom-container" style="overflow: hidden; width: 100%; height: 500px; border: 1px solid #ccc;">
+  <img id="zoom-image" src="Attachments/Lucian/Lucian-placeholder.png" style="max-width: none;" />
 </div>
+
+<script src="https://cdn.jsdelivr.net/npm/@panzoom/panzoom@9.4.0/dist/panzoom.min.js"></script>
+<script>
+  const element = document.getElementById('zoom-image');
+  const panzoom = Panzoom(element, {
+    maxScale: 5,
+    minScale: 1,
+    contain: 'outside'
+  });
+  element.parentElement.addEventListener('wheel', panzoom.zoomWithWheel);
+</script>
+
 
 
 <br>
