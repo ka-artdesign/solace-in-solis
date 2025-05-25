@@ -40,16 +40,24 @@
 **Visual Reference/Inspirations:** TBA
 
 <style>
+  /* Make the zoomed image scale bigger (3x instead of default ~2x) */
   .medium-zoom-image--opened {
-    transform: scale(3) !important; /* Increase zoom scale */
-    transition: transform 0.3s;
+    transform: scale(3) !important;
+    transition: transform 0.3s ease;
+  }
+
+  /* Mobile-friendly tweaks */
+  img.zoomable {
+    max-width: 100%;
+    cursor: zoom-in;
+    touch-action: manipulation; /* Improves touch responsiveness */
+    user-select: none;
   }
 </style>
 
 <img 
   src="https://file.garden/ZdaeU9vlqFbDy-Y_/Solis%20Repository/Lucian%20Ref%20pics/Lucian-placeholder.png" 
   class="zoomable" 
-  style="max-width: 100%; cursor: zoom-in; touch-action: manipulation;" 
   alt="Lucian Placeholder" 
 />
 
@@ -58,7 +66,10 @@
   mediumZoom('.zoomable', {
     margin: 24,
     background: 'rgba(0, 0, 0, 0.8)',
-    scrollOffset: 40
+    scrollOffset: 40,
+    container: null,
+    template: null,
+    // medium-zoom doesn’t officially support mobile config, but it works well by default
   });
 </script>
 
