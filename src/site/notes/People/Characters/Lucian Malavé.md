@@ -37,9 +37,8 @@
 - Also across their body, particularly on their fists and up their arms, which they tend to cover up by habit.
 <br>
 
-[**Visual References/Inspirations**](https://www.tldraw.com/f/qiNfYCrc_nDXDw4TzEB6S?d=v-1283.349.1660.947.qN8pDiDRFeLZmAZhbD47m)
+### [ **Visual References/Inspirations**](https://www.tldraw.com/f/qiNfYCrc_nDXDw4TzEB6S?d=v-1283.349.1660.947.qN8pDiDRFeLZmAZhbD47m)
 <br>
-
 **Status**: Alive
 **Family:** 
 - [[People/Characters/James Malavé\|James Malavé]] - Eldest Brother
