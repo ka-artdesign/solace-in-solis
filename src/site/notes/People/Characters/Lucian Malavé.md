@@ -40,7 +40,9 @@
 **Visual Reference/Inspirations:** TBA
 
 <div id="zoom-container" style="overflow: hidden; width: 100%; height: 500px; border: 1px solid #ccc;">
-  <img id="zoom-image" src="Attachments/Lucian/Lucian-placeholder.png" style="max-width: none;" />
+  <img id="zoom-image" 
+       src="https://file.garden/ZdaeU9vlqFbDy-Y_/Solis%20Repository/Lucian%20Ref%20pics/Lucian-placeholder.png" 
+       style="max-width: none;" />
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/@panzoom/panzoom@9.4.0/dist/panzoom.min.js"></script>
