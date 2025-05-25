@@ -40,11 +40,16 @@
 **Visual Reference/Inspirations:** TBA
 
 <style>
-  /* Optional: cursor styles */
   .zoomable {
     max-width: 100%;
     cursor: zoom-in;
     touch-action: manipulation;
+    user-select: none;
+    -webkit-user-drag: none;
+  }
+  /* When zoomed, cursor changes to grabbing */
+  .zooming-zoomed img {
+    cursor: grab !important;
   }
 </style>
 
@@ -58,13 +63,44 @@
 <script src="https://cdn.jsdelivr.net/npm/zooming/build/zooming.min.js"></script>
 <script>
   const zooming = new Zooming({
-    maxZoom: 5,       // max zoom scale
+    maxZoom: 5,
     transitionDuration: 0.3,
     bgColor: 'rgba(0, 0, 0, 0.8)',
-    scaleBase: 1.5,   // how much it zooms per click (default ~1.5)
-    scrollThreshold: 40, // px to start zoom on scroll
+    scaleBase: 1.5,
+    scrollThreshold: 40,
   });
   zooming.listen('.zoomable');
+
+  // Simple drag to pan for zoomed image
+  let isDragging = false, startX, startY, scrollLeft, scrollTop;
+  const zoomedContainer = document.body; // zooming puts zoomed image here
+
+  zooming.on('shown', () => {
+    const img = document.querySelector('.zooming-zoomed img');
+    if (!img) return;
+
+    img.style.cursor = 'grab';
+
+    img.onmousedown = (e) => {
+      isDragging = true;
+      startX = e.pageX;
+      startY = e.pageY;
+      scrollLeft = window.scrollX;
+      scrollTop = window.scrollY;
+      img.style.cursor = 'grabbing';
+      e.preventDefault();
+    };
+    window.onmouseup = () => {
+      isDragging = false;
+      if (img) img.style.cursor = 'grab';
+    };
+    window.onmousemove = (e) => {
+      if (!isDragging) return;
+      const dx = e.pageX - startX;
+      const dy = e.pageY - startY;
+      window.scrollTo(scrollLeft - dx, scrollTop - dy);
+    };
+  });
 </script>
 
 
