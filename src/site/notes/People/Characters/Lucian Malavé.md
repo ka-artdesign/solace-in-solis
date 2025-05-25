@@ -39,26 +39,32 @@
 
 **Visual Reference/Inspirations:** TBA
 
-<div id="zoom-container" style="overflow: hidden; width: 100%; height: 500px; border: 1px solid #ccc;">
-  <img id="zoom-image" 
-       src="https://file.garden/ZdaeU9vlqFbDy-Y_/Solis%20Repository/Lucian%20Ref%20pics/Lucian-placeholder.png" 
-       style="max-width: none; cursor: grab;" 
-       alt="Lucian Placeholder" />
-</div>
+<style>
+  /* Optional: cursor styles */
+  .zoomable {
+    max-width: 100%;
+    cursor: zoom-in;
+    touch-action: manipulation;
+  }
+</style>
 
-<script src="https://cdn.jsdelivr.net/npm/@panzoom/panzoom@9.4.0/dist/panzoom.min.js"></script>
+<img 
+  src="https://file.garden/ZdaeU9vlqFbDy-Y_/Solis%20Repository/Lucian%20Ref%20pics/Lucian-placeholder.png" 
+  class="zoomable" 
+  alt="Lucian Placeholder" 
+  data-action="zoom"
+/>
+
+<script src="https://cdn.jsdelivr.net/npm/zooming/build/zooming.min.js"></script>
 <script>
-  const element = document.getElementById('zoom-image');
-  const panzoom = Panzoom(element, {
-    maxScale: 5,
-    minScale: 1,
-    contain: 'outside'
+  const zooming = new Zooming({
+    maxZoom: 5,       // max zoom scale
+    transitionDuration: 0.3,
+    bgColor: 'rgba(0, 0, 0, 0.8)',
+    scaleBase: 1.5,   // how much it zooms per click (default ~1.5)
+    scrollThreshold: 40, // px to start zoom on scroll
   });
-  element.parentElement.addEventListener('wheel', panzoom.zoomWithWheel);
-
-  // Enable mobile pinch zoom support
-  element.parentElement.addEventListener('touchstart', panzoom.handleTouchStart, { passive: false });
-  element.parentElement.addEventListener('touchmove', panzoom.handleTouchMove, { passive: false });
+  zooming.listen('.zoomable');
 </script>
 
 
