@@ -39,7 +39,10 @@
 
 **Visual Reference/Inspirations:** TBA
 
-<embed src="C:\Users\skyla\Documents\Obsidian\Solace - OC World\Excalidraw\Lucian placeholder test.svg" type="image/svg+xml" />
+<div style="overflow: auto; width: 100%; height: 500px;">
+  <img src="Attachments/Lucian/Lucian placeholder test.svg" style="transform: scale(2); transform-origin: top left;" />
+</div>
+
 
 <br>
 
