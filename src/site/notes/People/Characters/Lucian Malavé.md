@@ -39,22 +39,40 @@
 
 **Visual Reference/Inspirations:** TBA
 
-<div id="zoom-container" style="overflow: hidden; width: 100%; height: 500px; border: 1px solid #ccc;">
+<div id="zoom-container" style="width: 100%; height: 500px; border: 1px solid #ccc; overflow: hidden; position: relative;">
   <img id="zoom-image" 
        src="https://file.garden/ZdaeU9vlqFbDy-Y_/Solis%20Repository/Lucian%20Ref%20pics/Lucian-placeholder.png" 
-       style="max-width: none;" />
+       style="width: 100%; height: auto; cursor: grab; touch-action: none; user-select: none;" 
+       alt="Lucian Placeholder" />
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/@panzoom/panzoom@9.4.0/dist/panzoom.min.js"></script>
 <script>
   const element = document.getElementById('zoom-image');
+
   const panzoom = Panzoom(element, {
     maxScale: 5,
     minScale: 1,
-    contain: 'outside'
+    contain: 'inside',  // Keep image fully visible inside container bounds
+    cursor: 'grab'
   });
-  element.parentElement.addEventListener('wheel', panzoom.zoomWithWheel);
+
+  // Enable zooming with mouse wheel on the container (not just the image)
+  const parent = element.parentElement;
+  parent.addEventListener('wheel', (event) => {
+    event.preventDefault();
+    panzoom.zoomWithWheel(event);
+  });
+
+  // Change cursor on pan start/end for better UX
+  element.addEventListener('panstart', () => {
+    element.style.cursor = 'grabbing';
+  });
+  element.addEventListener('panend', () => {
+    element.style.cursor = 'grab';
+  });
 </script>
+
 
 
 
