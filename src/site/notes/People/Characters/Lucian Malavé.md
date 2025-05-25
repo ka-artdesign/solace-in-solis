@@ -40,66 +40,25 @@
 **Visual Reference/Inspirations:** TBA
 
 <style>
-  .zoomable {
-    max-width: 100%;
-    cursor: zoom-in;
-    touch-action: manipulation;
-    user-select: none;
-    -webkit-user-drag: none;
-  }
-  /* When zoomed, cursor changes to grabbing */
-  .zooming-zoomed img {
-    cursor: grab !important;
+  .medium-zoom-image--opened {
+    transform: scale(3) !important; /* Increase zoom scale */
+    transition: transform 0.3s;
   }
 </style>
 
 <img 
   src="https://file.garden/ZdaeU9vlqFbDy-Y_/Solis%20Repository/Lucian%20Ref%20pics/Lucian-placeholder.png" 
   class="zoomable" 
+  style="max-width: 100%; cursor: zoom-in; touch-action: manipulation;" 
   alt="Lucian Placeholder" 
-  data-action="zoom"
 />
 
-<script src="https://cdn.jsdelivr.net/npm/zooming/build/zooming.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/medium-zoom@1.1.0/dist/medium-zoom.min.js"></script>
 <script>
-  const zooming = new Zooming({
-    maxZoom: 5,
-    transitionDuration: 0.3,
-    bgColor: 'rgba(0, 0, 0, 0.8)',
-    scaleBase: 1.5,
-    scrollThreshold: 40,
-  });
-  zooming.listen('.zoomable');
-
-  // Simple drag to pan for zoomed image
-  let isDragging = false, startX, startY, scrollLeft, scrollTop;
-  const zoomedContainer = document.body; // zooming puts zoomed image here
-
-  zooming.on('shown', () => {
-    const img = document.querySelector('.zooming-zoomed img');
-    if (!img) return;
-
-    img.style.cursor = 'grab';
-
-    img.onmousedown = (e) => {
-      isDragging = true;
-      startX = e.pageX;
-      startY = e.pageY;
-      scrollLeft = window.scrollX;
-      scrollTop = window.scrollY;
-      img.style.cursor = 'grabbing';
-      e.preventDefault();
-    };
-    window.onmouseup = () => {
-      isDragging = false;
-      if (img) img.style.cursor = 'grab';
-    };
-    window.onmousemove = (e) => {
-      if (!isDragging) return;
-      const dx = e.pageX - startX;
-      const dy = e.pageY - startY;
-      window.scrollTo(scrollLeft - dx, scrollTop - dy);
-    };
+  mediumZoom('.zoomable', {
+    margin: 24,
+    background: 'rgba(0, 0, 0, 0.8)',
+    scrollOffset: 40
   });
 </script>
 
