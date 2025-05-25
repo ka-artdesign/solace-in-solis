@@ -39,6 +39,7 @@
 
 ### [ **Visual References/Inspirations**](https://www.tldraw.com/f/qiNfYCrc_nDXDw4TzEB6S?d=v-1283.349.1660.947.qN8pDiDRFeLZmAZhbD47m)
 <br>
+
 **Status**: Alive
 **Family:** 
 - [[People/Characters/James Malavé\|James Malavé]] - Eldest Brother
