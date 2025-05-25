@@ -39,21 +39,12 @@
 
 **Visual Reference/Inspirations:** TBA
 
-<div id="zoom-container" style="overflow: hidden; width: 100%; height: 500px; border: 1px solid #ccc;">
-  <img id="zoom-image" 
-       src="https://file.garden/ZdaeU9vlqFbDy-Y_/Solis%20Repository/Lucian%20Ref%20pics/Lucian-placeholder.png" 
-       style="max-width: none;" />
-</div>
+<img src="https://file.garden/ZdaeU9vlqFbDy-Y_/Solis%20Repository/Lucian%20Ref%20pics/Lucian-placeholder.png" 
+     id="zoom-test" style="max-width: 100%; cursor: zoom-in;" />
 
-<script src="https://cdn.jsdelivr.net/npm/@panzoom/panzoom@9.4.0/dist/panzoom.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/medium-zoom@1.1.0/dist/medium-zoom.min.js"></script>
 <script>
-  const element = document.getElementById('zoom-image');
-  const panzoom = Panzoom(element, {
-    maxScale: 5,
-    minScale: 1,
-    contain: 'outside'
-  });
-  element.parentElement.addEventListener('wheel', panzoom.zoomWithWheel);
+  mediumZoom('#zoom-test');
 </script>
 
 
