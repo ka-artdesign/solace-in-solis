@@ -6,7 +6,10 @@
 # Lucian Malavé
 
 <br>
-<!img src="https://file.garden/ZdaeU9vlqFbDy-Y_/Toyhouse%20stuff/Lucian%20TH%20Stuff/Lucian%20icon%20thing%20TH.jpg"
+<img src="https://file.garden/ZdaeU9vlqFbDy-Y_/Toyhouse%20stuff/Lucian%20TH%20Stuff/Lucian%20icon%20thing%20TH.jpg"
+display= "block"
+margin-left= "auto"
+margin-right= "auto"
 class="image" 
 align= "middle"
 style="max-height: 258px;">
