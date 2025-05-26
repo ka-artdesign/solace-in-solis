@@ -6,6 +6,8 @@
 # Lucian Malavé
 
 <br>
+<img src="https://file.garden/ZdaeU9vlqFbDy-Y_/Toyhouse%20stuff/Lucian%20TH%20Stuff/Lucian%20icon%20thing%20TH.jpg"
+class="d-block mx-auto rounded-circle p-1 img-thumbnail mb-3" style="max-height: 258px;">
 
 ### [ **Visual References/Inspirations**](https://www.tldraw.com/f/qiNfYCrc_nDXDw4TzEB6S?d=v-1283.349.1660.947.qN8pDiDRFeLZmAZhbD47m)
 
