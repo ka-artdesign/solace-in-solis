@@ -7,7 +7,7 @@
 
 
 <p align="center">
-    <img src="https://file.garden/ZdaeU9vlqFbDy-Y_/Toyhouse%20stuff/Lucian%20TH%20Stuff/Lucian%20icon%20thing%20TH.jpg" alt="Lucian Icon PH" width="500" border= "rounded 8px">
+    <img src="https://file.garden/ZdaeU9vlqFbDy-Y_/Toyhouse%20stuff/Lucian%20TH%20Stuff/Lucian%20icon%20thing%20TH.jpg" alt="Lucian Icon PH" width="300px" border= "rounded 8px">
 </p>
 
 ### [ **Visual References/Inspirations**](https://www.tldraw.com/f/qiNfYCrc_nDXDw4TzEB6S?d=v-1283.349.1660.947.qN8pDiDRFeLZmAZhbD47m)
