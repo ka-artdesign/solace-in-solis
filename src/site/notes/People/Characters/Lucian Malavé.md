@@ -7,7 +7,7 @@
 
 
 <p align="center">
-    <img src="https://file.garden/ZdaeU9vlqFbDy-Y_/Toyhouse%20stuff/Lucian%20TH%20Stuff/Lucian%20icon%20thing%20TH.jpg" alt="Lucian Icon PH" width="400px" border-radius= "8px">
+    <img src="https://file.garden/ZdaeU9vlqFbDy-Y_/Toyhouse%20stuff/Lucian%20TH%20Stuff/Lucian%20icon%20thing%20TH.jpg" alt="Lucian Icon PH" width="400px">
 </p>
 
 ### [ **Visual References/Inspirations**](https://www.tldraw.com/f/qiNfYCrc_nDXDw4TzEB6S?d=v-1283.349.1660.947.qN8pDiDRFeLZmAZhbD47m)
@@ -103,7 +103,7 @@ They're reliable, kind, and someone who despite their flaws, does right by their
 - Training in Martial Arts 
 
 **Theme Song:**
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6k4f9cRrCBLxoFQGZHJ8QX?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6k4f9cRrCBLxoFQGZHJ8QX?utm_source=generator" width="50%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <br>
 <br>
 
