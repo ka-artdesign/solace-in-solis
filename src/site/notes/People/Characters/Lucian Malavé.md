@@ -5,7 +5,6 @@
 
 # Lucian Malavé
 
-<br>
 
 <p align="center">
     <img src="https://file.garden/ZdaeU9vlqFbDy-Y_/Toyhouse%20stuff/Lucian%20TH%20Stuff/Lucian%20icon%20thing%20TH.jpg" alt="Lucian Icon PH" width="500">
