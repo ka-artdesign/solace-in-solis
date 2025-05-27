@@ -69,14 +69,14 @@ They're reliable, kind, and someone who despite their flaws, does right by their
 
 **Dislikes:**
 - Being on bad terms with those they care about
-- Scummy Merchants
 - To be called a liar or be judged on other's actions
-- Feeling excessively dirty while working
+- Having to organize during high-activity seasons
+- Cold and dry weather
 
 **Fears:**
 - Abandonment, does not like being left behind
 - Solitude
-- Small spaces *(Don't ask Kadence about the vent incident.)*
+- Small/Closed spaces *(Don't ask Kadence about the vent incident.)*
 - Failure and being unable to recover
 
 **Strengths:**
