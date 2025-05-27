@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/general-overview/","pinned":true,"tags":["masterlist","characters","faction","civilizations","lore","gardenEntry"],"dgShowLocalGraph":true,"dgShowFileTree":true}
 ---
 
-<b><h1 style="text-align:center;">Hi there!</h1></b>
+*<h1 style="text-align:center;">Hi there!</h1>*
 <br>
 
 ## *Solace to Solis* is the current name to my OC Universe that is based on a myriad of inspirations and ideas, originally meant as an idea dump to put all my character concepts into one universe, and make it easier to explain how they could interact.
