@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/people/factions-and-civilizations/united-nations-trading-and-labor-coalition/","tags":["faction","earth","mercantile","labor","masterlist"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true}
+{"dg-publish":true,"permalink":"/people/factions-and-civilizations/united-nations-trading-and-labor-coalition/","tags":["earth","mercantile","labor","masterlist","factions"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true}
 ---
 
 
-# United Nations Trading and Labor Coalition
+<h1 style="text-align:center;">United Nations Trading and Labor Coalition</h1>
 
 <p align="center">
     <img src="IMAGE.jpg" alt="Placeholder" width="400px">

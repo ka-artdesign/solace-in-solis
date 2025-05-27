@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/general-overview/","pinned":true,"tags":["masterlist","characters","faction","civilizations","lore","gardenEntry"],"dgShowLocalGraph":true,"dgShowFileTree":true}
+{"dg-publish":true,"permalink":"/general-overview/","pinned":true,"tags":["masterlist","characters","civilizations","lore","factions","gardenEntry"],"dgShowLocalGraph":true,"dgShowFileTree":true}
 ---
 
 **<h1 style="text-align:center;">Hi there!</h1>**
