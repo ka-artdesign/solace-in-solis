@@ -103,7 +103,7 @@ They're reliable, kind, and someone who despite their flaws, does right by their
 - Training in Martial Arts 
 
 **Theme Song:**
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6k4f9cRrCBLxoFQGZHJ8QX?utm_source=generator" width="50%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6k4f9cRrCBLxoFQGZHJ8QX?utm_source=generator" width="auto" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <br>
 <br>
 
