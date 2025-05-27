@@ -21,7 +21,7 @@
 ### General Information:
 
 **Name:** Lucian Malavé Narváez
-**Nickname:** Luci, Luz
+**Nickname/Alias:** Luci, Luz
 **Age:** 26
 **Gender:** Nonbinary/Genderfluid
 **Pronouns:** They/Any
@@ -49,9 +49,10 @@
 - [[People/Characters/James Malavé\|James Malavé]] - Eldest Brother
 - [[People/Characters/Kadence Malavé\|Kadence Malavé]] - Second-eldest brother
 
-**Affiliation:** [[People/Factions & Civilizations/United Nations Trading Coalition - UNTC\|United Nations Trading Coalition - UNTC]]
+**Affiliation:** [[People/Factions & Civilizations/United Nations Trading and Labor Coalition\|United Nations Trading and Labor Coalition]]
 **Personality Type:** ENFP-A
 **Temper:** A bit impulsive and impatient, especially when pressed emotionally.
+**Moral Alignment:** Neutral-Good
 <br>
 
 ### Personality & Abilities:
@@ -103,7 +104,7 @@ They're reliable, kind, and someone who despite their flaws, does right by their
 - Training in Martial Arts 
 
 **Theme Song:**
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6k4f9cRrCBLxoFQGZHJ8QX?utm_source=generator" width="auto" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6k4f9cRrCBLxoFQGZHJ8QX?utm_source=generator" width="60%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <br>
 <br>
 
@@ -117,11 +118,11 @@ They're reliable, kind, and someone who despite their flaws, does right by their
 
 Born on the shuttle down to Earth from one of the many satellite-based outposts just outside of the planet, Lucian was raised in a somewhat complicated family dynamic with the loss of a parent and the absence of another. They were lucky to be raised by their brothers, who had taken to being responsible for them ever since they were young. 
 
-Raised on the [[Thunder Ox\|Thunder Ox]] UNTC outpost, Lucian was scrawny and often did not want to be involved in any confrontations, especially when most of the races that lived in this territory were far bigger and stronger, even as children. Even then, thanks to a few trials by fire and loving encouragement from their siblings, Lucian learned to find their voice and discovered they had a mean left hook.
+Raised on the [[Thunder Ox\|Thunder Ox]] UNTLC outpost, Lucian was scrawny and often did not want to be involved in any confrontations, especially when most of the races that lived in this territory were far bigger and stronger, even as children. Even then, thanks to a few trials by fire and loving encouragement from their siblings, Lucian learned to find their voice and discovered they had a mean left hook.
 
-Their adolescence was pretty uneventful save for trading disputes and some serious scarcity coming up, but Lucian made themselves shine by finding good solutions to the problems at hand, after they had meddled in Trading Authorities' equipment and offices. *Act now, ask for forgiveness later, right?* If it wasn't for Kadence's help and James choosing to cover for them, they wouldn't have been able to pull it off. Because of their actions, the UNTC Officials had seen potential in them. 
+Their adolescence was pretty uneventful save for trading disputes and some serious scarcity coming up, but Lucian made themselves shine by finding good solutions to the problems at hand, after they had meddled in Trading Authorities' equipment and offices. *Act now, ask for forgiveness later, right?* If it wasn't for Kadence's help and James choosing to cover for them, they wouldn't have been able to pull it off. Because of their actions, the UNTLC Officials had seen potential in them. 
 
-Helping those on the rig, earning their income through their kind efforts, they ended up being offered a job with the UNTC, to help shape what is currently sustaining the local economy. Kadence had snagged a sort of nomadic lifestyle as either a mechanic or a deliveryman, so over time he ended up only visiting occasionally. James lives on the rig as an emergency medic, stitching up workers and helping those with the more immediate injuries, stabilizing them. Lucian believes he hasn't left for better job offers because they chose to stay here.
+Helping those on the rig, earning their income through their kind efforts, they ended up being offered a job with the UNTLC, to help shape what is currently sustaining the local economy. Kadence had snagged a sort of nomadic lifestyle as either a mechanic or a deliveryman, so over time he ended up only visiting occasionally. James lives on the rig as an emergency medic, stitching up workers and helping those with the more immediate injuries, stabilizing them. Lucian believes he hasn't left for better job offers because they chose to stay here.
 
 Despite the Thunder Ox's inherent flaws, and how flakey the economy is, Lucian wouldn't trade it unless they were given a really good offer to travel and explore Solis. They adore learning, so something like that would appeal to them, but until then, they're happy with the active and busy life of a trading supervisor.
 <br>

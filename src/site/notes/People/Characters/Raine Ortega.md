@@ -3,16 +3,22 @@
 ---
 
 # Indigo *"Raine"* Ortega
+
+
+<p align="center">
+    <img src="IMAGE.jpg" alt="Placeholder" width="400px">
+</p>
+**Visual Reference/Inspirations:**
 <br>
 
 ## Summary: 
 
-A smuggler-thief who is burdened with immortality for the last 200 years, after interacting with an [[Aestellan\|Aestellan]] relic in the depths of [[Locations/Venus\|Venus]]. They're known as a small legend, often a set of rumors most think false, but those in the underground circles know who the aestellan smuggler is.
+A smuggler-thief who is burdened with immortality for the last 200 years, after interacting with an [[Aestellan\|Aestellan]] relic in the depths of [[Locations/Venus\|Venus]]. They're known as a bit of a legend, often a set of rumors most think false, but those in the underground circles know who the aestellan smuggler is.
 <br>
 ### General Information:
 
 **Name:** Indigo Ortega
-**Nickname:**
+**Nickname/Alias:**
 **Age:** 256 approx. (Appears to be mid to late forties)
 **Gender:** Nonbinary/Agender
 **Pronouns:** They/Them
@@ -28,14 +34,12 @@ A smuggler-thief who is burdened with immortality for the last 200 years, after 
 **Notable Features/Details:** TBA
 <br>
 
-**Status:** Immortal
+**Status:** Immortal (Circumstantial)
 **Family:** None
 **Affiliation:** Independent
 **Personality Type:**
 **Temper:**
-
-
-**Visual Reference/Inspirations:** TBA
+**Moral Alignment:** Chaotic-Neutral
 <br>
 
 ### Personality & Abilities:
@@ -51,7 +55,7 @@ TBA
 **Hobbies:**
 
 **Theme Song:** 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7kOlqMHboyS604AmNVM4Zy?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7kOlqMHboyS604AmNVM4Zy?utm_source=generator" width="60%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <br>
 
 ### Relationships / Alliances:

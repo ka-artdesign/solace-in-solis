@@ -12,7 +12,7 @@
 
 [[People/Characters/Raine Ortega\|Raine Ortega]]
 [[People/Characters/Colt Morgan\|Colt Morgan]]
-[[People/Characters/Coyote\|Coyote]]
+[[People/Characters/The Coyote\|The Coyote]]
 [[People/Characters/Citadel\|Citadel]]
 
 [[People/Characters/K10Z\|K10Z]]

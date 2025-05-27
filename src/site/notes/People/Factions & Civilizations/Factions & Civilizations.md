@@ -9,7 +9,8 @@
 <br>
 
 ### Factions:
-[[People/Factions & Civilizations/United Nations Trading Coalition - UNTC\|United Nations Trading Coalition - UNTC]]
+[[People/Factions & Civilizations/United Nations Trading and Labor Coalition\|United Nations Trading and Labor Coalition]]
+[[People/Factions & Civilizations/Zenith Syndicate\|Zenith Syndicate]]
 <br>
 
 ### Civilizations:
