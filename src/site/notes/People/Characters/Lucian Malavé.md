@@ -49,7 +49,7 @@
 - [[People/Characters/James Malavé\|James Malavé]] - Eldest Brother
 - [[People/Characters/Kadence Malavé\|Kadence Malavé]] - Second-eldest brother
 
-**Affiliation:** [[People/Factions & Civilizations/United Nations Trading Coalition\|United Nations Trading Coalition]]
+**Affiliation:** [[People/Factions & Civilizations/United Nations Trading Coalition - UNTC\|United Nations Trading Coalition - UNTC]]
 **Personality Type:** ENFP-A
 **Temper:** A bit impulsive and impatient, especially when pressed emotionally.
 <br>

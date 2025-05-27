@@ -9,7 +9,7 @@
 <br>
 
 ### Factions:
-
+[[People/Factions & Civilizations/United Nations Trading Coalition - UNTC\|United Nations Trading Coalition - UNTC]]
 <br>
 
 ### Civilizations:
