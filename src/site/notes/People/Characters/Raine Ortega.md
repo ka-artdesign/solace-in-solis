@@ -60,7 +60,7 @@ TBA
 
 ### Relationships / Alliances:
 
-[[People/Characters/Gen. Colt Morgan\|Gen. Colt Morgan]] - An outlaw Raine has a lot of mixed feelings about— *guilt, particularly.* They betrayed him to avoid giving away the fact that they're irreversibly immortal, knowing how in-love he was. Imagine their surprise that decades later, he became the head of the Peacekeepers.
+[[People/Characters/HMC Colt Morgan\|HMC Colt Morgan]] - An outlaw Raine has a lot of mixed feelings about— *guilt, particularly.* They betrayed him to avoid giving away the fact that they're irreversibly immortal, knowing how in-love he was. Imagine their surprise that decades later, he became the head of the Peacekeepers.
 
 <br>
 

@@ -11,7 +11,7 @@
 [[People/Characters/James Malavé\|James Malavé]]
 
 [[People/Characters/Raine Ortega\|Raine Ortega]]
-[[People/Characters/Gen. Colt Morgan\|Gen. Colt Morgan]]
+[[People/Characters/HMC Colt Morgan\|HMC Colt Morgan]]
 [[People/Characters/The Coyote\|The Coyote]]
 [[People/Characters/Citadel\|Citadel]]
 
