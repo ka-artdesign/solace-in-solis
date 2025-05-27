@@ -10,7 +10,7 @@
     <img src="https://file.garden/ZdaeU9vlqFbDy-Y_/Toyhouse%20stuff/Lucian%20TH%20Stuff/Lucian%20icon%20thing%20TH.jpg" alt="Lucian Icon PH" width="400px">
 </p>
 
-### <b><a href="https://www.tldraw.com/f/qiNfYCrc_nDXDw4TzEB6S?d=v-1283.349.1660.947.qN8pDiDRFeLZmAZhbD47m" style="text-align:center;">Visual References/Inspirations</a></b>
+<h3 style="text-align:center;"><b><a href="https://www.tldraw.com/f/qiNfYCrc_nDXDw4TzEB6S?d=v-1283.349.1660.947.qN8pDiDRFeLZmAZhbD47m">Visual References/Inspirations</a></b></h3>
 
 <br>
 
