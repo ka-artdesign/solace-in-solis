@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/locations/main-setting-solis/","tags":["masterlist"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true}
 ---
 
-# Solis - Main Setting
+<h1 style="text-align:center;">Solis - Main Setting</h1>
 
 ## The solar system, also more commonly known in-universe as Solis, is the center point of the story. I could add more within the Milky Way Galaxy, but for now, this is the farthest I can go narratively, and it still is a *lot* of ground to cover.
 
