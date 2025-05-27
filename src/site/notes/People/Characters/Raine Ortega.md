@@ -2,13 +2,13 @@
 {"dg-publish":true,"permalink":"/people/characters/raine-ortega/","tags":["characters"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true}
 ---
 
-# Indigo *"Raine"* Ortega
+<h1 style="text-align:center;">Indigo <i>"Raine"</i> Ortega</h1>
 
 
 <p align="center">
     <img src="IMAGE.jpg" alt="Placeholder" width="400px">
 </p>
-**Visual Reference/Inspirations:**
+<h3 style="text-align:center;"><b><a href="link here">Visual References/Inspirations</a></b></h3>
 <br>
 
 ## Summary: 
