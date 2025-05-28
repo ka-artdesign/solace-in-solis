@@ -2,6 +2,22 @@
 <html lang="{{ meta.mainLanguage }}">
   <head>
     <title>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</title>
+
+    <meta name="description" content="The archive about Solis— Alkalyne's OC Universe!">
+
+    <!-- Open Graph (Discord, Facebook, etc) -->
+    <meta property="og:title" content="{% if title %}{{ title }}{% else %}Solace in Solis{% endif %}" />
+    <meta property="og:description" content="The archive about Solis— Alkalyne's OC Universe!" />
+    <meta property="og:image" content="https://solace-in-solis.vercel.app/og-image.png" />
+    <meta property="og:url" content="https://solace-in-solis.vercel.app/" />
+    <meta property="og:type" content="website" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="{% if title %}{{ title }}{% else %}Solace in Solis{% endif %}" />
+    <meta name="twitter:description" content="The archive about Solis— Alkalyne's OC Universe!" />
+    <meta name="twitter:image" content="https://solace-in-solis.vercel.app/og-image.png" />
+
     {%include "components/pageheader.njk"%}
     {% for imp in dynamics.common.head %}
       {% include imp %}
