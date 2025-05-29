@@ -5,17 +5,8 @@ body {
   border-radius: 8px;
   backdrop-filter: blur(4px); // optional, adds a subtle blur behind
 }
-        .search-container input {
-  border-radius: 4px; 
-  padding: 0.4rem 0.6rem; // tweak as needed for shape
-}
 
-.search-container button, 
-.search-container .search-icon {
-  border-radius: 4px;
-  padding: 0.4rem;
-}
-
+    
 
     /***
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
