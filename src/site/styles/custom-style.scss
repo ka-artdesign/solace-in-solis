@@ -1,4 +1,4 @@
-// This sets the filetree sidebar background with transparency and blur
+// Transparent sidebar with blur
 .filetree-sidebar {
   background-color: rgba(0, 0, 0, 0.6); // semi-transparent dark background
   border-radius: 8px;
@@ -8,29 +8,36 @@
 // Set background variable
 :root {
   --background-primary: #1d072b;
+  --text-accent: #f47f31;
+  --text-accent-hover: #fcba30;
 }
 
-// Force dark theme to use the custom background
+// Apply background color for dark theme
 body.theme-dark {
   --background-primary: #1d072b;
   background-color: var(--background-primary) !important;
 }
 
-:root {
-  --text-accent: #f47f31;
-  --text-accent-hover: #fcba30;
-}
-
-a {
-  color: var(--text-accent);
+// Accent link styles with specificity boost
+body a,
+body a:visited,
+a.internal-link,
+a.external-link,
+a.is-unresolved {
+  color: var(--text-accent) !important;
   text-decoration: underline;
-
-  &:hover {
-    color: var(--text-accent-hover);
-  }
 }
 
-em, i {
+body a:hover,
+a.internal-link:hover,
+a.external-link:hover,
+a.is-unresolved:hover {
+  color: var(--text-accent-hover) !important;
+}
+
+// Italic and emphasized text color
+em,
+i {
   color: #ffdf68;
 }
 
