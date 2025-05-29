@@ -1,9 +1,9 @@
 body {
 
-    .sidebar {
-  background: rgba(0, 0, 0, 0.6); // dark translucent background
-  padding: 1rem; // adds inner space so text doesn’t hug the edges
-  border-radius: 8px; // optional: soft rounded corners
+    .filetree-sidebar {
+  background-color: rgba(0, 0, 0, 0.6); // semi-transparent dark background
+  border-radius: 8px;
+  backdrop-filter: blur(4px); // optional, adds a subtle blur behind
 }
 
     /***
