@@ -1,4 +1,16 @@
 body {
+
+    /* Target the sidebar */
+.sidebar {
+  background-opacity: 100%;
+  backdrop-filter: blur(6px); /* optional: glass effect */
+  padding: 1rem;
+  border-radius: 0.5rem;
+
+  /* Optional: improve readability */
+  color: white;
+}
+
     /***
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
