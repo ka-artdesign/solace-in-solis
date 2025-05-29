@@ -5,9 +5,10 @@ body {
   border-radius: 8px;
   backdrop-filter: blur(4px); // optional, adds a subtle blur behind
 }
-    :root {
-  --background-primary: #1f0929 !important;
+    .theme-dark {
+  background: #1f0929 !important;
 }
+
 
     
 
