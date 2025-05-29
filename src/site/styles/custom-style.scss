@@ -5,11 +5,14 @@ body {
   border-radius: 8px;
   backdrop-filter: blur(4px); // optional, adds a subtle blur behind
 }
-    .theme-dark {
-  background: #1f0929 !important;
+:root {
+  --background-primary: #1f0929;
 }
 
-
+.theme-dark {
+  --background-primary: #1f0929;
+  background-color: var(--background-primary) !important;
+}
     
 
     /***
