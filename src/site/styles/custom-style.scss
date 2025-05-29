@@ -16,6 +16,24 @@ body.theme-dark {
   background-color: var(--background-primary) !important;
 }
 
+:root {
+  --text-accent: #f47f31;
+  --text-accent-hover: #fcba30;
+}
+
+a {
+  color: var(--text-accent);
+  text-decoration: underline;
+
+  &:hover {
+    color: var(--text-accent-hover);
+  }
+}
+
+em, i {
+  color: #ffdf68;
+}
+
     
 
     /***
