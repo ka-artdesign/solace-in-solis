@@ -55,12 +55,12 @@ TBA
 **Hobbies:**
 
 **Theme Song:** 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7kOlqMHboyS604AmNVM4Zy?utm_source=generator" width="60%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7kOlqMHboyS604AmNVM4Zy?utm_source=generator" width="auto" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <br>
 
 ### Relationships / Alliances:
 
-[[People/Characters/HMC Colt Morgan\|HMC Colt Morgan]] - An outlaw Raine has a lot of mixed feelings about— *guilt, particularly.* They betrayed him to avoid giving away the fact that they're irreversibly immortal, knowing how in-love he was. Imagine their surprise that decades later, he became the head of the Peacekeepers.
+[[People/Characters/HMC Colt Morgan\|HMC Colt Morgan]] - An outlaw Raine has a lot of mixed feelings about— *guilt, particularly.* They betrayed him to avoid giving away the fact that they're irreversibly immortal, knowing how in-love he was. Imagine their surprise that decades later, he became the head of *[[People/Factions & Civilizations/Secura Pax\|Secura Pax]].*
 
 <br>
 
