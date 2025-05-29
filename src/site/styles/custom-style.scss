@@ -1,18 +1,21 @@
-body {
-
-    .filetree-sidebar {
+// This sets the filetree sidebar background with transparency and blur
+.filetree-sidebar {
   background-color: rgba(0, 0, 0, 0.6); // semi-transparent dark background
   border-radius: 8px;
-  backdrop-filter: blur(4px); // optional, adds a subtle blur behind
+  backdrop-filter: blur(4px); // optional blur
 }
+
+// Set background variable
 :root {
   --background-primary: #1f0929;
 }
 
-.theme-dark {
+// Force dark theme to use the custom background
+body.theme-dark {
   --background-primary: #1f0929;
   background-color: var(--background-primary) !important;
 }
+
     
 
     /***
@@ -26,4 +29,4 @@ body {
     //  h1 {
     //   color: black;
     //  }
-}
+
