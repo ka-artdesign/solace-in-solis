@@ -45,6 +45,27 @@ main i,
   color: #ffdf68;
 }
 
+h1 {
+  color: #f79731;  // warm orange
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
+}
+
+h2 {
+  color: #f5c27a;  // soft gold
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+h3 {
+  color: #ffdb7d;  // pale yellow
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.4);
+}
+
+h4 {
+  color: #f97c4e;  // muted coral/orange
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.4);
+}
+
+
 /***
   ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
   IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
