@@ -7,12 +7,12 @@
 
 // Set background variable
 :root {
-  --background-primary: #1f0929;
+  --background-primary: #1d072b;
 }
 
 // Force dark theme to use the custom background
 body.theme-dark {
-  --background-primary: #1f0929;
+  --background-primary: #1d072b;
   background-color: var(--background-primary) !important;
 }
 
