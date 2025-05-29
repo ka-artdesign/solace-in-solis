@@ -1,48 +1,38 @@
-// Transparent sidebar with blur
-.filetree-sidebar {
-  background-color: rgba(0, 0, 0, 0.6); // semi-transparent dark background
-  border-radius: 8px;
-  backdrop-filter: blur(4px); // optional blur
-}
-
-// Set background variable
 :root {
   --background-primary: #1d072b;
   --text-accent: #f47f31;
   --text-accent-hover: #fcba30;
 }
 
-// Apply background color for dark theme
+// Apply background to dark theme
 body.theme-dark {
   --background-primary: #1d072b;
   background-color: var(--background-primary) !important;
 }
 
-// Accent link styles with specificity boost
-body a,
-body a:visited,
-a.internal-link,
-a.external-link,
-a.is-unresolved {
+// Fix accent link color override
+body.theme-dark a,
+.theme-dark a.internal-link,
+.theme-dark a.external-link,
+.theme-dark a.is-unresolved {
   color: var(--text-accent) !important;
-  text-decoration: underline;
+  text-decoration: underline !important;
 }
 
-body a:hover,
-a.internal-link:hover,
-a.external-link:hover,
-a.is-unresolved:hover {
+body.theme-dark a:hover,
+.theme-dark a.internal-link:hover,
+.theme-dark a.external-link:hover,
+.theme-dark a.is-unresolved:hover {
   color: var(--text-accent-hover) !important;
 }
 
 // Italic and emphasized text color
-em,
-i {
-  color: #ffdf68;
+.theme-dark em,
+.theme-dark i {
+  color: #ffdf68 !important;
 }
 
     
-
     /***
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
