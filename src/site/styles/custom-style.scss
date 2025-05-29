@@ -5,16 +5,21 @@
   backdrop-filter: blur(4px);
 }
 
-// Make sure your background variable is set
+// Make sure your background variable and accent colors are set with !important to override base styles
 :root {
-  --background-primary: #1d072b;
-  --text-accent: #f47f31;
-  --text-accent-hover: #fcba30;
+  --background-primary: #1d072b !important;
+  --text-accent: #f47f31 !important;
+  --text-accent-hover: #fcba30 !important;
 }
 
-// Background color for dark theme
+.theme-dark {
+  --background-primary: #1d072b !important;
+  --text-accent: #f47f31 !important;
+  --text-accent-hover: #fcba30 !important;
+}
+
+// Background color for dark theme body
 body.theme-dark {
-  --background-primary: #1d072b;
   background-color: var(--background-primary) !important;
 }
 
@@ -40,16 +45,8 @@ main i,
   color: #ffdf68;
 }
 
-    
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+/***
+  ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
+  IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
+***/
 
