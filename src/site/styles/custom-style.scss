@@ -48,7 +48,7 @@ main i,
 body {
   --h1-color: #E88535;
   --h2-color: #F56A48;
-  --h3-color: rgb(235, 203, 140);
+  --h3-color: #F99B69;
   --h4-color: rgb(153, 190, 141);
   --h5-color: rgb(165, 127, 150);
   --h6-color: rgb(155, 180, 196);
@@ -65,7 +65,7 @@ h2,
 }
 h3,
 .markdown-rendered h3 {
-  color: var(--h3-color, #ebcb8c) !important;
+  color: var(--h3-color, #F99B69) !important;
 }
 h4,
 .markdown-rendered h4 {
