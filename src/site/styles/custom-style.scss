@@ -62,22 +62,11 @@ h4 { color: var(--h4-color, #99be8d); }
 h5 { color: var(--h5-color, #a57f96); }
 h6 { color: var(--h6-color, #9bb4c4); }
 
-// Force solid color on h4 to override possible text-fill or background-clip styles
-.markdown-rendered h4,
-.is-live-preview .HyperMD-header-4,
-.cm-header-4 {
-  background: none !important;
-  -webkit-background-clip: unset !important;
-  -webkit-text-fill-color: unset !important;
-  text-fill-color: unset !important;
-  color: var(--h4-color) !important;
-}
-
 // Bold gradient styling
 strong,
 .cm-strong {
   font-weight: bold;
-  background-image: linear-gradient(45deg, #bf606b 0%, #ebcb8c 100%);
+  background-image: linear-gradient(45deg, #f79731 0%, #ffdb7d 100%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
