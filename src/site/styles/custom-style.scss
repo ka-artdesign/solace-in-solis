@@ -57,15 +57,15 @@ body {
 // Heading fallbacks (apply directly to tags)
 h1,
 .markdown-rendered h1 {
-  color: var(--h1-color, #bf606b);
+  color: var(--h1-color, #bf606b) !important;
 }
 h2,
 .markdown-rendered h2 {
-  color: var(--h2-color, #cf866e);
+  color: var(--h2-color, #cf866e) !important;
 }
 h3,
 .markdown-rendered h3 {
-  color: var(--h3-color, #ebcb8c);
+  color: var(--h3-color, #ebcb8c) !important;
 }
 h4,
 .markdown-rendered h4 {
@@ -73,11 +73,11 @@ h4,
 }
 h5,
 .markdown-rendered h5 {
-  color: var(--h5-color, #a57f96);
+  color: var(--h5-color, #a57f96) !important;
 }
 h6,
 .markdown-rendered h6 {
-  color: var(--h6-color, #9bb4c4);
+  color: var(--h6-color, #9bb4c4) !important;
 }
 
 // Bold gradient styling
