@@ -73,6 +73,39 @@ strong,
   text-fill-color: transparent;
 }
 
+// Force custom h4 color variable globally
+:root {
+  --h4-color: rgb(153, 190, 141) !important;
+}
+
+// Apply h4 color with high specificity and important flag
+.markdown-rendered h4,
+.HyperMD-header-4 {
+  color: var(--h4-color) !important;
+  font-weight: bold;
+  position: relative;  // keep pseudo-elements positioned correctly
+}
+
+// Color the ::before and ::after elements on h4 (lines or highlights)
+.markdown-rendered h4::before,
+.markdown-rendered h4::after,
+.HyperMD-header-4::before,
+.HyperMD-header-4::after {
+  background-color: var(--h4-color) !important;
+}
+
+// Also apply your other headings with their respective colors for consistency
+.markdown-rendered h1,
+.HyperMD-header-1 { color: var(--h1-color) !important; }
+.markdown-rendered h2,
+.HyperMD-header-2 { color: var(--h2-color) !important; }
+.markdown-rendered h3,
+.HyperMD-header-3 { color: var(--h3-color) !important; }
+.markdown-rendered h5,
+.HyperMD-header-5 { color: var(--h5-color) !important; }
+.markdown-rendered h6,
+.HyperMD-header-6 { color: var(--h6-color) !important; }
+
 /***
   ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
   IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
