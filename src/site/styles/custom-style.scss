@@ -44,7 +44,7 @@ main i,
   color: #ffdf68;
 }
 
-// Heading color variables
+// Heading color variables (based on image palette)
 body {
   --h1-color: rgb(191, 96, 107);
   --h2-color: rgb(207, 134, 110);
@@ -54,13 +54,24 @@ body {
   --h6-color: rgb(155, 180, 196);
 }
 
-// Fallbacks (if theme doesn't use custom properties directly)
+// Heading fallbacks
 h1 { color: var(--h1-color, #bf606b); }
 h2 { color: var(--h2-color, #cf866e); }
 h3 { color: var(--h3-color, #ebcb8c); }
 h4 { color: var(--h4-color, #99be8d); }
 h5 { color: var(--h5-color, #a57f96); }
 h6 { color: var(--h6-color, #9bb4c4); }
+
+// Bold gradient styling
+strong,
+.cm-strong {
+  font-weight: bold;
+  background-image: linear-gradient(45deg, #f79731 0%, #ffdb7d 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+}
 
 /***
   ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
