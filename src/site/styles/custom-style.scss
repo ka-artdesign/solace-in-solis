@@ -46,8 +46,8 @@ main i,
 
 // Heading color variables (based on image palette)
 body {
-  --h1-color: #F56A48;
-  --h2-color: #E88535;
+  --h1-color: #E88535;
+  --h2-color: #F56A48;
   --h3-color: rgb(235, 203, 140);
   --h4-color: rgb(153, 190, 141);
   --h5-color: rgb(165, 127, 150);
@@ -57,11 +57,11 @@ body {
 // Heading fallbacks (apply directly to tags)
 h1,
 .markdown-rendered h1 {
-  color: var(--h1-color, #F56A48) !important;
+  color: var(--h1-color, #E88535) !important;
 }
 h2,
 .markdown-rendered h2 {
-  color: var(--h2-color, #E88535) !important;
+  color: var(--h2-color, #F56A48) !important;
 }
 h3,
 .markdown-rendered h3 {
