@@ -5,18 +5,11 @@
   backdrop-filter: blur(4px);
 }
 
-// Override theme variables with !important
+// Override theme variables
 :root {
   --background-primary: #1d072b !important;
   --text-accent: #f47f31 !important;
   --text-accent-hover: #fcba30 !important;
-
-  --h1-color: rgb(191, 96, 107) !important;
-  --h2-color: rgb(207, 134, 110) !important;
-  --h3-color: rgb(235, 203, 140) !important;
-  --h4-color: rgb(153, 190, 141) !important;
-  --h5-color: rgb(165, 127, 150) !important;
-  --h6-color: rgb(155, 180, 196) !important;
 }
 
 .theme-dark {
@@ -51,34 +44,40 @@ main i,
   color: #ffdf68;
 }
 
-// Heading fallbacks
-h1 { color: var(--h1-color, #bf606b) !important; }
-h2 { color: var(--h2-color, #cf866e) !important; }
-h3 { color: var(--h3-color, #ebcb8c) !important; }
-h4 { color: var(--h4-color, #99be8d) !important; }
-h5 { color: var(--h5-color, #a57f96) !important; }
-h6 { color: var(--h6-color, #9bb4c4) !important; }
-
-// More specific h4 overrides to combat theme specificity
-.markdown-rendered h4,
-.is-live-preview .HyperMD-header-4 {
-  color: var(--h4-color) !important;
-  position: relative !important;
-  font-variant: var(--h4-variant) !important;
-  letter-spacing: 0.015em !important;
-  line-height: var(--h4-line-height) !important;
-  font-size: var(--h4-size) !important;
-  font-weight: var(--h4-weight) !important;
-  font-style: var(--h4-style) !important;
-  font-family: var(--h4-font) !important;
+// Heading color variables (based on image palette)
+body {
+  --h1-color: rgb(191, 96, 107);
+  --h2-color: rgb(207, 134, 110);
+  --h3-color: rgb(235, 203, 140);
+  --h4-color: rgb(153, 190, 141);
+  --h5-color: rgb(165, 127, 150);
+  --h6-color: rgb(155, 180, 196);
 }
 
-// Also fix the pseudo elements on h4 (before/after)
-.markdown-rendered h4::before,
-.markdown-rendered h4::after,
-.is-live-preview .HyperMD-header-4::before,
-.is-live-preview .HyperMD-header-4::after {
-  background-color: var(--h4-color) !important;
+// Heading fallbacks (apply directly to tags)
+h1,
+.markdown-rendered h1 {
+  color: var(--h1-color, #bf606b);
+}
+h2,
+.markdown-rendered h2 {
+  color: var(--h2-color, #cf866e);
+}
+h3,
+.markdown-rendered h3 {
+  color: var(--h3-color, #ebcb8c);
+}
+h4,
+.markdown-rendered h4 {
+  color: var(--h4-color, #99be8d) !important;
+}
+h5,
+.markdown-rendered h5 {
+  color: var(--h5-color, #a57f96);
+}
+h6,
+.markdown-rendered h6 {
+  color: var(--h6-color, #9bb4c4);
 }
 
 // Bold gradient styling
@@ -91,6 +90,7 @@ strong,
   -webkit-text-fill-color: transparent;
   text-fill-color: transparent;
 }
+
 
 /***
   ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
