@@ -5,19 +5,11 @@
   backdrop-filter: blur(4px);
 }
 
-// Global theme variables
+// Override theme variables
 :root {
   --background-primary: #1d072b !important;
   --text-accent: #f47f31 !important;
   --text-accent-hover: #fcba30 !important;
-
-  // Heading color variables (based on image palette)
-  --h1-color: rgb(191, 96, 107);
-  --h2-color: rgb(207, 134, 110);
-  --h3-color: rgb(235, 203, 140);
-  --h4-color: rgb(153, 190, 141);
-  --h5-color: rgb(165, 127, 150);
-  --h6-color: rgb(155, 180, 196);
 }
 
 .theme-dark {
@@ -52,7 +44,17 @@ main i,
   color: #ffdf68;
 }
 
-// Heading color fallbacks (for plain HTML headings)
+// Heading color variables (based on image palette)
+body {
+  --h1-color: rgb(191, 96, 107);
+  --h2-color: rgb(207, 134, 110);
+  --h3-color: rgb(235, 203, 140);
+  --h4-color: rgb(153, 190, 141);
+  --h5-color: rgb(165, 127, 150);
+  --h6-color: rgb(155, 180, 196);
+}
+
+// Heading fallbacks
 h1 { color: var(--h1-color, #bf606b); }
 h2 { color: var(--h2-color, #cf866e); }
 h3 { color: var(--h3-color, #ebcb8c); }
@@ -60,84 +62,26 @@ h4 { color: var(--h4-color, #99be8d); }
 h5 { color: var(--h5-color, #a57f96); }
 h6 { color: var(--h6-color, #9bb4c4); }
 
-// Ensure heading styles apply to live preview/rendered markdown
-.markdown-rendered h1,
-.HyperMD-header-1,
-.cm-header-1 {
-  color: var(--h1-color);
-}
-.markdown-rendered h2,
-.HyperMD-header-2,
-.cm-header-2 {
-  color: var(--h2-color);
-}
-.markdown-rendered h3,
-.HyperMD-header-3,
-.cm-header-3 {
-  color: var(--h3-color);
-}
+// Force solid color on h4 to override possible text-fill or background-clip styles
 .markdown-rendered h4,
-.HyperMD-header-4,
+.is-live-preview .HyperMD-header-4,
 .cm-header-4 {
-  color: var(--h4-color);
-}
-.markdown-rendered h5,
-.HyperMD-header-5,
-.cm-header-5 {
-  color: var(--h5-color);
-}
-.markdown-rendered h6,
-.HyperMD-header-6,
-.cm-header-6 {
-  color: var(--h6-color);
+  background: none !important;
+  -webkit-background-clip: unset !important;
+  -webkit-text-fill-color: unset !important;
+  text-fill-color: unset !important;
+  color: var(--h4-color) !important;
 }
 
 // Bold gradient styling
 strong,
 .cm-strong {
   font-weight: bold;
-  background-image: linear-gradient(45deg, #f79731 0%, #ffdb7d 100%);
+  background-image: linear-gradient(45deg, #bf606b 0%, #ebcb8c 100%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   text-fill-color: transparent;
-}
-
-/* Force header colors to apply with high specificity */
-.markdown-rendered h1,
-.is-live-preview .HyperMD-header-1,
-.cm-header-1 {
-  color: var(--h1-color) !important;
-}
-
-.markdown-rendered h2,
-.is-live-preview .HyperMD-header-2,
-.cm-header-2 {
-  color: var(--h2-color) !important;
-}
-
-.markdown-rendered h3,
-.is-live-preview .HyperMD-header-3,
-.cm-header-3 {
-  color: var(--h3-color) !important;
-}
-
-.markdown-rendered h4,
-.is-live-preview .HyperMD-header-4,
-.cm-header-4 {
-  color: var(--h4-color) !important;
-}
-
-.markdown-rendered h5,
-.is-live-preview .HyperMD-header-5,
-.cm-header-5 {
-  color: var(--h5-color) !important;
-}
-
-.markdown-rendered h6,
-.is-live-preview .HyperMD-header-6,
-.cm-header-6 {
-  color: var(--h6-color) !important;
 }
 
 /***
