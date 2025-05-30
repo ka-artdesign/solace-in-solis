@@ -103,6 +103,43 @@ strong,
   text-fill-color: transparent;
 }
 
+/* Force header colors to apply with high specificity */
+.markdown-rendered h1,
+.is-live-preview .HyperMD-header-1,
+.cm-header-1 {
+  color: var(--h1-color) !important;
+}
+
+.markdown-rendered h2,
+.is-live-preview .HyperMD-header-2,
+.cm-header-2 {
+  color: var(--h2-color) !important;
+}
+
+.markdown-rendered h3,
+.is-live-preview .HyperMD-header-3,
+.cm-header-3 {
+  color: var(--h3-color) !important;
+}
+
+.markdown-rendered h4,
+.is-live-preview .HyperMD-header-4,
+.cm-header-4 {
+  color: var(--h4-color) !important;
+}
+
+.markdown-rendered h5,
+.is-live-preview .HyperMD-header-5,
+.cm-header-5 {
+  color: var(--h5-color) !important;
+}
+
+.markdown-rendered h6,
+.is-live-preview .HyperMD-header-6,
+.cm-header-6 {
+  color: var(--h6-color) !important;
+}
+
 /***
   ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
   IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
