@@ -1,11 +1,11 @@
-// Keep your filetree sidebar styling intact:
+// Sidebar styling
 .filetree-sidebar {
-  background-color: rgba(0, 0, 0, 0.6); // semi-transparent dark background
+  background-color: rgba(0, 0, 0, 0.6);
   border-radius: 8px;
   backdrop-filter: blur(4px);
 }
 
-// Make sure your background variable and accent colors are set with !important to override base styles
+// Override theme variables
 :root {
   --background-primary: #1d072b !important;
   --text-accent: #f47f31 !important;
@@ -18,26 +18,25 @@
   --text-accent-hover: #fcba30 !important;
 }
 
-// Background color for dark theme body
+// Apply background
 body.theme-dark {
   background-color: var(--background-primary) !important;
 }
 
-// Target ONLY links inside your main content, filetree, or note content (avoid global a):
+// Apply link styles
 main a,
 .filetree-sidebar a,
 .note-content a {
   color: var(--text-accent);
   text-decoration: underline;
 }
-
 main a:hover,
 .filetree-sidebar a:hover,
 .note-content a:hover {
   color: var(--text-accent-hover);
 }
 
-// Italics and emphasized text color only inside main content or notes:
+// Emphasis styling
 main em,
 main i,
 .note-content em,
@@ -45,26 +44,23 @@ main i,
   color: #ffdf68;
 }
 
-h1 {
-  color: #f79731;  // warm orange
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
+// Heading color variables
+body {
+  --h1-color: rgb(191, 96, 107);
+  --h2-color: rgb(207, 134, 110);
+  --h3-color: rgb(235, 203, 140);
+  --h4-color: rgb(153, 190, 141);
+  --h5-color: rgb(165, 127, 150);
+  --h6-color: rgb(155, 180, 196);
 }
 
-h2 {
-  color: #f5c27a;  // soft gold
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
-}
-
-h3 {
-  color: #ffdb7d;  // pale yellow
-  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.4);
-}
-
-h4 {
-  color: #f97c4e;  // muted coral/orange
-  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.4);
-}
-
+// Fallbacks (if theme doesn't use custom properties directly)
+h1 { color: var(--h1-color, #bf606b); }
+h2 { color: var(--h2-color, #cf866e); }
+h3 { color: var(--h3-color, #ebcb8c); }
+h4 { color: var(--h4-color, #99be8d); }
+h5 { color: var(--h5-color, #a57f96); }
+h6 { color: var(--h6-color, #9bb4c4); }
 
 /***
   ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
